@@ -624,7 +624,7 @@ strong {
   -webkit-box-shadow: 0px 0px 10px 0px rgba(88, 95, 101, 0.75);
   -moz-box-shadow: 0px 0px 10px 0px rgba(88, 95, 101, 0.75);
 }
-.text h3:hover::after {
+.text h3:hover {
   opacity: 0.75;
 }
 
